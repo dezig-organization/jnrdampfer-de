@@ -425,12 +425,12 @@ const reviewCardContent = {
     "Mega Box 25K": {
         image: "images/4.jpg",
         alt: "JNR Mega Box 25K Einweg Vape in Nahaufnahme",
-        text: "Die JNR Mega Box 25K Einweg Vape steht fuer markantes Design, hohe Kapazitaet und ein JNR Vape Erlebnis fuer alle, die ein Modell mit bis zu 25.000 Zuegen und starkem Auftritt suchen."
+        text: "Die JNR Mega Box 25K Einweg Vape steht fuer markantes Design, hohe Kapazitaet und ein JNR Vape Erlebnis fuer alle, die ein Modell mit bis zu 25000 Zuegen und starkem Auftritt suchen."
     },
     "Falcon Pro 28K": {
         image: "images/JNR Falcon.png",
         alt: "JNR Falcon Pro 28K Einweg Vape in Nahaufnahme",
-        text: "Die JNR Falcon Pro 28K Einweg Vape verbindet das auffaellige Falcon Design mit Blue Razz Ice Look, moderner Anzeige und einer starken Position fuer Nutzer, die eine JNR Vape mit bis zu 28.000 Zuegen suchen."
+        text: "Die JNR Falcon Pro 28K Einweg Vape verbindet das auffaellige Falcon Design mit Blue Razz Ice Look, moderner Anzeige und einer starken Position fuer Nutzer, die eine JNR Vape mit bis zu 28000 Zuegen suchen."
     },
     "RageGorilla 55K": {
         image: "images/2-4.jpg",
@@ -440,7 +440,7 @@ const reviewCardContent = {
     "Alien 10K": {
         image: "images/tt0EhkJ-a.jpg",
         alt: "JNR Alien 10K Einweg Vape mit Relief-Design und Display",
-        text: "Die JNR Alien 10K Einweg Vape zeigt ein kompaktes Format mit auffaelligem Relief, Display und JNR Charakter fuer alle, die eine Einweg E-Zigarette mit bis zu 10.000 Zuegen und eigenstaendigem Stil bevorzugen."
+        text: "Die JNR Alien 10K Einweg Vape zeigt ein kompaktes Format mit auffaelligem Relief, Display und JNR Charakter fuer alle, die eine Einweg E-Zigarette mit bis zu 10000 Zuegen und eigenstaendigem Stil bevorzugen."
     }
 };
 

@@ -133,12 +133,13 @@ a {
 .logo {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
-    font-size: 1.25rem;
-    font-weight: 700;
+    line-height: 0;
 }
 
 .logo img {
+    display: block;
+    width: auto;
+    height: 48px;
     background: transparent;
     mix-blend-mode: screen;
 }
