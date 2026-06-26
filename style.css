@@ -1615,6 +1615,10 @@ footer svg {
     gap: 20px;
 }
 
+.foot-cont-two a {
+    color: inherit;
+}
+
 .foot-cont-three {
     display: flex;
     flex-wrap: wrap;
